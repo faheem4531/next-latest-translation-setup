@@ -5,7 +5,7 @@ import { Box, Typography, Divider, Slide, Button } from "@mui/material";
 import MenuAccordion from "./MenuAccordion";
 import LanguageDropdown from "./LanguageDropdown";
 import Image from "next/image";
-import profile from "../_assets/svgs/profile.svg";
+import profile from "@/assets/svgs/profile.svg";
 
 type Section = { title: string; items: string[] };
 

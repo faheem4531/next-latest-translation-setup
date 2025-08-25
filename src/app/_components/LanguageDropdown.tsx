@@ -12,8 +12,8 @@ import {
 } from "@mui/material";
 import CheckRounded from "@mui/icons-material/CheckRounded";
 
-import FlagGermany from "../_assets/svgs/FlagGermany.svg";
-import FlagUK from "../_assets/svgs/FlagUK.svg";
+import FlagGermany from "@/assets/svgs/FlagGermany.svg";
+import FlagUK from "@/assets/svgs/FlagUK.svg";
 
 type Lang = "de" | "en";
 

@@ -1,13 +1,13 @@
 "use client";
 import { Box, Typography, Button } from "@mui/material";
-import Logo from "../_assets/pngs/logo.png";
+import Logo from "@/assets/pngs/logo.png";
 import Image from "next/image";
 import MenuDropdown from "./MenuDropdown";
 import LanguageDropdown from "./LanguageDropdown";
 import MobileMenu from "./MobileMenu";
 import { useState } from "react";
-import profile from "../_assets/svgs/profile.svg";
-import hamburger from "../_assets/svgs/hamburger.svg";
+import profile from "@/assets/svgs/profile.svg";
+import hamburger from "@/assets/svgs/hamburger.svg";
 
 export default function Navbar() {
   const [open, setOpen] = useState(false);
@@ -22,7 +22,6 @@ export default function Navbar() {
           display: "flex",
           alignItems: "center",
           justifyContent: "space-between",
-          // backgroundColor: "#fff",
         }}
       >
         <Box
