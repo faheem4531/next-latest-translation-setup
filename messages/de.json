@@ -1,0 +1,22 @@
+{
+  "LocaleLayout": {
+    "title": "How Drive Home"
+  },
+  "Navbar": {
+    "aboutus": {
+      "text": "Über uns",
+      "item1": "Wer wir sind",
+      "item2": "Unsere Mission",
+      "item3": "Was wir bieten"
+    },
+    "features": {
+      "text": "Funktion",
+      "item1": "Für Fahrschüler",
+      "item2": "Für Fahrschulen",
+      "item3": "Installation auf Handy"
+    },
+    "pricing": "Preise",
+    "contact": "Kontakt",
+    "login": "Anmelden"
+  }
+}
